@@ -1,5 +1,6 @@
-# Curso Selenium
-Los archivos que se pueden encontrar en este repositorio son una serie de scripts en python que permiten la interaccion con el navegador google chrome mediante automatizacion,
-para realizar esto se hace uso de Selenium.
-NOTA:
-para ejecutar los scripts es necesario tener instalados los modulos de seleniun y ddt, al igual que tener todos los archivos en una misma carpeta
+# Selenium Course
+The files that can be found in this repository are a series of python scripts that allow interaction with the google chrome browser through automation,
+Selenium is used to do this.
+NOTE:
+to run the scripts it is necessary to have the seleniun and ddt modules installed, as well as to have all the files in the same folder
+
